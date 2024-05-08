@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2024-05-08T16:13:47.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="uJa814za_ubL2YARlAz1" version="24.3.1" type="github">
+  <diagram name="Página-1" id="w2JGxfwK3_4Co9fJS01Z">
+    <mxGraphModel dx="1429" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZgDF1Zh-EmiNUFqbCzEF-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Router.svg;" vertex="1" parent="1">
+          <mxGeometry x="231" y="510" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgDF1Zh-EmiNUFqbCzEF-3" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.firewall" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="50" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgDF1Zh-EmiNUFqbCzEF-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.firewall" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="50" height="44" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
